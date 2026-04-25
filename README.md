@@ -7,3 +7,6 @@ This is another line of text.
 This is additional text here.
 
 Hello world
+
+This is a conflict
+
